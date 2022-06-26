@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412858938477",
+    "project_id": "test-notification-flutte-aa484",
+    "storage_bucket": "test-notification-flutte-aa484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412858938477:android:da08e4b203f879ce23bb64",
+        "android_client_info": {
+          "package_name": "com.example.test_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412858938477-ejul2gjqq977srbapi2hu51tjr728dqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8UZ6szG6xRu6L2YEbOwhZp1EVeegycM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412858938477-ejul2gjqq977srbapi2hu51tjr728dqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
